@@ -1,6 +1,6 @@
 # markdav.is
 
-![me](me-pixel.png)
+![me](me-pixel-alpha.png)
 
 My professional path follows two parallel tracks.  On one hand, I’m an engineer.  I’ve been doing full-stack development for over a decade and now I focus on cloud and mobile.  On the other hand, I’m a people connector and enjoy providing leadership.  Below are links to two resumes depending on what facets of mine you’d like to leverage.  I also dabble in things like hackathons and IoT projects.
 
