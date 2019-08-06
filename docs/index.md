@@ -15,7 +15,7 @@ My professional path follows a few tracks.
 
 Below are links to two resumes depending on what facets of mine you’d like to leverage.  I also dabble in things like [hackathons](http://openeugene.org) and [large scale art projects](http://king-pong.com)
 
-This page was last updated in the Summer of 2019.  I’m currently on contrat with the [HP Developer Program Team](http://hp.io) and managing a [coworking space](http://codechops.com).  I put this page together to [link](http://markdav.is) for my business cards.
+This page was last updated in the Summer of 2019.  I’m currently on contrat with the [HP Developer Program Team](http://hp.io) and managing a [coworking space](http://codechops.com).  I built this page to [match](http://markdav.is) my IRL business cards.
 
 ### [Resume (leadership focus)](MED-Resume-2018-Open-Leader.pdf)
 
