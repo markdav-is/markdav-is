@@ -2,7 +2,7 @@
 
 ![me](me-pixel-alpha.png)
 
-Welcome to my business card!  I'm glad you're here! :tada:
+Welcome to my business card!  I'm glad you're here! 🎉
 
 I'm obsessed with collaboration.  The more folks on a project the better, and we all learn from each other to bring the awesome.
 
