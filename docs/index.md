@@ -19,7 +19,7 @@ This page was last updated in the Fall of 2019.  I’m currently contracting thr
 
 ### [Resume (leadership focus)](MED-Resume-2018-Open-Leader.pdf)
 
-### [Resume (developer focus)](MED-Resume-2018-Dev.pdf)
+### [Resume (developer focus)](https://github.com/nohorse/markdav-is/blob/master/docs/MED%20Resume%202019%20Dev.pdf)
 
 Here's a photo of me presenting at an [AT&T developers conference](https://www.youtube.com/watch?feature=player_detailpage&v=rwDRFM2hcsY&t=314) a few years ago.
 
