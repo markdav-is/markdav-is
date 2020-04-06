@@ -4,7 +4,7 @@
 
 ## Welcome to my business card! 🎉
 
-Working with distributed teams is my passion.  As a remote full-stack developer and civic community builder I work with digital natives to solve problems daily.  With COVID affecting everyone we have lots of digital refugees at our door and It’s time to welcome them with open arms. As a certified Mozilla Open Leader, I can help your team get productive and engaged although they are distributed.
+Working with distributed teams is my passion.  As a remote full-stack developer and civic community builder I work with digital natives to solve problems daily.  With COVID affecting everyone we have lots of digital refugees at our door and It’s time to welcome them with open arms. As a certified Mozilla Open Leader, I can help your team get productive and engaged although they are working from home.
 
 ### Let's Connect! 💬
 
