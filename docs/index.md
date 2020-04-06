@@ -16,7 +16,7 @@ Below are links to two resumes depending on what facets you’d like to leverage
 
 This page was last updated in the Spring of 2020.  I’m currently contracting thru [Dark Matter](http://darkmatter.consulting) and managing a [coworking space](http://codechops.com).  I built this page to [match](http://markdav.is) my IRL business cards.
 
-### [Resume (civic leadership focus)](MED%20Resume%202020%20Open%20Program%20Manger.pdf)
+### [Resume (civic leadership focus)](https://github.com/nohorse/markdav-is/blob/master/docs/MED%20Resume%202020%20Dev.pdf)
 
 ### [Resume (developer focus)](MED%20Resume%202020%20Dev.pdf)
 
