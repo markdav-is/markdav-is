@@ -8,7 +8,8 @@ Working with distributed teams is my passion.  As a remote full-stack developer 
 
 ### Let's Connect! 💬
 
-If you want to connect, the best way for business is [LinkedIn](https://www.linkedin.com/in/markdavs/), and civic projects is [Slack](http://eugenetech.slack.com).  I'm active on social media via [Instagram](http://instagram.com/markedavis) or [Facebook](https://www.facebook.com/MarkTheDavis) or [Twitter](https://twitter.com/nohorse). So many ways to collaborate.
+If you want to connect, the best way for business is [LinkedIn](https://www.linkedin.com/in/markdavs/), and civic projects is [Slack](http://eugenetech.slack.com).  I'm active on social media via [Instagram](http://instagram.com/markedavis) or [Facebook](https://www.facebook.com/MarkTheDavis) or [Twitter](https://twitter.com/nohorse), or
+[!(https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/nohorse) So many ways to collaborate!
 
 ### Hire me! 💻
 My professional path follows a few tracks.  
