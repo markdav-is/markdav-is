@@ -1,2 +1,2 @@
 # Mark Davis
-CTO at Trifoia, an eLearning Company. Also a niche consultant specializing in Blazor & Oqtane, Developer Experience, and Innersource topics.  I'm an active contributor to Civic-Tech projects at [Open Eugene](http://openeugene.org).
+Developer Ananalyst at Lane County, Oregon gov. Tech Strat Trifoia. Also a niche consultant specializing in Blazor & Oqtane. Active contributor to Civic-Tech projects at [Open Eugene](http://openeugene.org).  Chat my blog at [Merk's Wiki](https://www.marks.wiki)
